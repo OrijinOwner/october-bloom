@@ -1,0 +1,16 @@
+h1 {color: blue;
+font-size: 1rem;
+font-style: italic;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+h2 {color: rgb(41, 38, 38);
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+p{color: rgb(0, 0, 0);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
+
+body{color:black}
+/*  */
